@@ -13,6 +13,6 @@ Note : This is a static frontend project. It does not support real transactions 
 
 Credit : Inspired by modern e-commerce platforms like Flipkart and PharmEasy. Special thanks to open-source communities and UI/UX inspiration platforms.
 
-Live Demo : https://shadanwar2004.github.io/Spotify-Clone/
+Live Demo :  https://shadanwar2004.github.io/Well-Pick/
 
 My linkedIn : www.linkedin.com/in/shadanwar07
