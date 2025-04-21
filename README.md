@@ -1,7 +1,10 @@
 # Well-Pick- E-commerce Website
 A visually appealing e-commerce website design created using HTML, CSS, and JavaScript. This project presents a slightly responsive and interactive shopping interface, designed to mimic the look and feel of modern online marketplaces. While it doesn’t include backend functionality or payment integration, it highlights the capability of front-end technologies in creating engaging and practical web interfaces.
 
-Features : Responsive Design - Optimized for a few different screen sizes, including desktops, tablets, and mobile devices. Intuitive Layout - Includes navigation bars, product sections, cart icons, a shopping list upload feature, and an elegant footer. Designed with CSS to deliver a rich user experience using hover effects, transitions, and color schemes suited to a clean and modern shopping vibe.
+## Features :
+**Responsive Design - Optimized for a few different screen sizes, including desktops, tablets, and mobile devices.
+**Intuitive Layout - Includes navigation bars, product sections, cart icons, a shopping list upload feature, and an elegant footer.
+**Designed with CSS to deliver a rich user experience using hover effects, transitions, and color schemes suited to a clean and modern shopping vibe.
 
 Shop Through List (Unique Feature) : For Shopping Users can upload a list of prefered Items.
 
